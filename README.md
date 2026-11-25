@@ -29,7 +29,7 @@ A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent H
 
 [![Blood II](https://raw.githubusercontent.com/igiteam/the-darkness-psx-blood-ii/refs/heads/main/the-choosen-cover.png)](https://archive.org/details/blood-ii)
 
-[![The Darkness](https://raw.githubusercontent.com/igiteam/the-darkness-psx-blood2/refs/heads/main/the-darkness-cover.jpg)](https://raw.githubusercontent.com/igiteam/the-darkness-psx-blood2/refs/heads/main/the-darkness-cover.jpg)
+[![The Darkness](https://raw.githubusercontent.com/igiteam/the-darkness-psx-blood-ii/refs/heads/main/the-darkness-cover.jpg)](https://vimm.net/vault/78290)
 
 # The Darkness Recomp
 
