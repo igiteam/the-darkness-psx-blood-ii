@@ -1,6 +1,6 @@
 # the-darkness-psx-blood-ii
-## Silent Hill Shattered Memories Wii - Alone in the Dark The New Nightmare
-A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent Hill: Shattered Memories engine, using its motion controls, pointer aiming, and Wii survival horror mechanics as the technical base.
+## The Darkness PSX - Blood II  Remake
+A remake of Blood II: The Chosen (1998), rebuilt using The Darkness engine, combining its dark atmospheric environments, supernatural abilities, first-person shooting, and cinematic presentation with Blood II's gothic horror setting, occult weapons, demonic enemies, and fast-paced FPS combat.
 
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/the-darkness-psx-blood-ii](https://treegit.macosxjs.com/?url=igiteam/the-darkness-psx-blood-ii)
